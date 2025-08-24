@@ -1,4 +1,16 @@
 # Devansh-Vikram
+</p>
+<!-- Typing Intro Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C2FF&width=600&lines=Hi%2C+I'm+Devansh+Vikram!+👨‍💻;Cloud+%7C+DevOps+%7C+Full+Stack+Enthusiast;Always+Learning+New+Technologies+🚀" alt="Typing Animation" />
+
+---
+
+<!-- Waving Hand Animation -->
+<h2 align="center">👋 Welcome to My GitHub Profile!</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
+</p>
+
 # Hi, I'm Devansh Vikram! 👨‍💻  
 🎓 B.Tech CSE (Cloud Computing & Virtualization), UPES Dehradun  
 💡 Passionate about Cloud, DevOps, and Full-Stack Development  
@@ -7,7 +19,15 @@
 ### ⚡ Tech Stack
 - **Languages:** C++, Java, JavaScript, HTML, CSS  
 - **Frameworks & Tools:** AngularJS, Node.js, Docker, Kubernetes  
-- **Cloud & Databases:** AWS, PostgreSQL (RDS), DynamoDB, S3  
+- **Cloud & Databases:** AWS, PostgreSQL (RDS), DynamoDB, S3
+
+- ### 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/DevanshVikram/DevanshVikram/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ### 📈 GitHub Stats
 ![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshVikram&show_icons=true&theme=radical)
 
@@ -43,17 +63,7 @@
  <a href="https://www.linkedin.com/in/devansh-vikram-99a09125a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<!-- Typing Intro Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C2FF&width=600&lines=Hi%2C+I'm+Devansh+Vikram!+👨‍💻;Cloud+%7C+DevOps+%7C+Full+Stack+Enthusiast;Always+Learning+New+Technologies+🚀" alt="Typing Animation" />
 
----
-
-<!-- Waving Hand Animation -->
-<h2 align="center">👋 Welcome to My GitHub Profile!</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
-</p>
 
 ---
 
@@ -73,21 +83,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/DevanshVikram/DevanshVikram/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
-
-### 🚀 Fun Animations  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
-</p>
-
----
-
 
